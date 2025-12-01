@@ -1,0 +1,9 @@
+git init
+
+// add (name,-A) || // reset namefile
+
+// commit -m "comment"
+
+// diff head
+// diff --staged
+
