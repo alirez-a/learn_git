@@ -2,4 +2,4 @@ git init
 
 git add (name,-A)
 
-git commit -m ""
+git commit -m "comment"
