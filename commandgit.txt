@@ -1,14 +1,27 @@
+#start git in the folder
 git init
 
-// add (name,-A) || // reset namefile
+#show log
+// status
 
+#edit file or folder
+// add (name,-A) 
 // commit -m "comment"
 
-// diff head (last committed)
+#show changes in edits
+// diff head #last committed
 // diff --staged
 
+#go back in log
+// reset namefile
 // checkout -- namefile
 
-// branch | (name) || // branch checkout (name)
+#branch
+// branch
+// branch name
+// branch checkout name
+// branch -d name
+// merge name
 
-// merge (name)
+# show file in the branch
+cat (name) 
