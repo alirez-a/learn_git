@@ -10,3 +10,5 @@ git init
 // checkout -- namefile
 
 // branch | (name) || // branch checkout (name)
+
+// merge (name)
