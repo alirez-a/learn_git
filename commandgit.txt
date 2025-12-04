@@ -4,6 +4,8 @@ git init
 
 // commit -m "comment"
 
-// diff head
+// diff head (last committed)
 // diff --staged
+
+// checkout -- namefile
 
