@@ -1,3 +1,4 @@
+my name is alireza
 #start git in the folder
 git init
 
