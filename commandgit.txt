@@ -22,6 +22,14 @@ git init
 // branch checkout name
 // branch -d name
 // merge name
+// branch -M new_name 
+// branch -m new_name 
+
+# edit global
+// clone link
+// remote add origin link 
+// push origin master (send to origin)
+// pull origin master (get from origin)
 
 # show file in the branch
 cat (name) 
